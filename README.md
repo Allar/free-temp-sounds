@@ -1,5 +1,5 @@
 # free-temp-sounds
-Free temporary sounds for temporary things.
+Free temporary sounds for temporary things. Feel free to pull request in sounds that you have made 100% yourself and are okay with distributing under MIT.
 
 # Contributors
 
